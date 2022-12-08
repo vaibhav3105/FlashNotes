@@ -1,6 +1,6 @@
-# my_notes
+# Flash Notes
 
-A new Flutter project.
+A new Flutter project created by Vaibhav Jain.
 
 ## Getting Started
 
