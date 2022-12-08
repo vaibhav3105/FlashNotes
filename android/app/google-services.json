@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007750758057",
+    "project_id": "flashnotes-50754",
+    "storage_bucket": "flashnotes-50754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007750758057:android:a568625cb72c0322a633b8",
+        "android_client_info": {
+          "package_name": "com.example.my_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007750758057-m4hrkftagd9e3tpvn6ej454dh75h7jot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABxbZcxsr7qTEV0zO9l40194nXJnZv8S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007750758057-m4hrkftagd9e3tpvn6ej454dh75h7jot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
